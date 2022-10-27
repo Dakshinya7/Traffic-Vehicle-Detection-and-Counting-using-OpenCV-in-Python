@@ -1,4 +1,4 @@
-                                                                 VEHICLE DETECTION USING OPENCV IN PYTHON
+                                                              VEHICLE DETECTION USING OPENCV IN PYTHON
 
 
 
